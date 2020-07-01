@@ -1,4 +1,4 @@
-package cn.soup.colorprint;
+package main.java.com.github.ilikesoup.colorprint;
 
 /**
  * ColorPrint使用帮助类

@@ -1,4 +1,4 @@
-package cn.soup.colorprint;
+package main.java.com.github.ilikesoup.colorprint;
 
 import java.util.Objects;
 
