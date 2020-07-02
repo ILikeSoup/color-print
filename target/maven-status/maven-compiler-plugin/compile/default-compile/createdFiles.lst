@@ -1,6 +1,6 @@
-main\java\com\github\ilikesoup\colorprint\Style.class
-main\java\com\github\ilikesoup\colorprint\Color.class
-main\java\com\github\ilikesoup\colorprint\ColorPrint.class
-main\java\com\github\ilikesoup\colorprint\Colors.class
-main\java\com\github\ilikesoup\colorprint\ColorPrintHelp.class
-main\java\com\github\ilikesoup\colorprint\ColorStyle.class
+com\github\ilikesoup\colorprint\Colors.class
+com\github\ilikesoup\colorprint\ColorPrintHelp.class
+com\github\ilikesoup\colorprint\ColorStyle.class
+com\github\ilikesoup\colorprint\Color.class
+com\github\ilikesoup\colorprint\ColorPrint.class
+com\github\ilikesoup\colorprint\Style.class

@@ -1,4 +1,4 @@
-package main.java.com.github.ilikesoup.colorprint;
+package com.github.ilikesoup.colorprint;
 
 import java.io.PrintStream;
 import java.util.Arrays;
@@ -312,9 +312,11 @@ public class ColorPrint {
      */
     public static void printm(Object source, int times, ColorStyle... styles) {
         if(styles == null) {
-            for (int i = 0; i < times; i++) {
-                print((ColorStyle)null, Objects.toString(source));
+            String s = Objects.toString(source);
+            if(times % 2 == 1) {
+                print((ColorStyle)null, s);
             }
+            printm(s + s, times/2, null);
         } else {
             for (int i = 0; i < times; i++) {
                 print(styles[i % styles.length], source);

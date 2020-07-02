@@ -1,4 +1,4 @@
-package main.java.com.github.ilikesoup.colorprint;
+package com.github.ilikesoup.colorprint;
 
 /**
  * 颜色

@@ -1,4 +1,4 @@
-package main.java.com.github.ilikesoup.colorprint;
+package com.github.ilikesoup.colorprint;
 
 import java.util.List;
 import java.util.Objects;
