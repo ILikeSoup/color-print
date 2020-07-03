@@ -36,11 +36,7 @@
         <developer>
             <name>ILikeSoup</name>
             <email>623829913@qq.com</email>
-            <roles>
-                <role>owner</role>
-            </roles>
             <timezone>+8</timezone>
         </developer>
     </developers>
-
 </project>
